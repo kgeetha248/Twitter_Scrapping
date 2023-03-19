@@ -60,11 +60,3 @@ with st.container():
 
         st.success("Successfully Uploaded")
 
-# column_1, column_2 = st.columns(2)
-# with column_1:
-#     #tweets_dict = st.session_state["tweets"]
-#  st.download_button("Download as CSV", tweet_dict.to_csv(), file_name='Tweets.csv',mime = 'text/csv')
-
-# with column_2:
-#     #tweets_dict = st.session_state["tweets"]
-#   st.download_button("Download as JSON", tweet_dict.to_json(), file_name='Tweets.json',mime = 'text/json')
