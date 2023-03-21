@@ -1,6 +1,6 @@
 pandas==1.5.3
 pymongo==4.3.3
 requests==2.28.2
-snscrape==0.6.1.20230315.dev2+gedac5f3
+snscrape==0.6.2.20230320
 streamlit==1.19.0
 streamlit_lottie==0.0.3
